@@ -3,7 +3,7 @@ Section: devel
 Priority: optional
 Maintainer: Santiago Vila <sanvila@debian.org>
 Standards-Version: 3.9.8
-Build-Depends: debhelper (>= 9.20120311)
+Build-Depends: debhelper (>= 9.20120311), help2man, texinfo
 Homepage: http://www.gnu.org/software/hello/
 
 Package: hello
